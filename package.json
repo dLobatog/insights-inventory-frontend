@@ -4,11 +4,12 @@
   "private": false,
   "dependencies": {
     "@babel/runtime": "^7.1.5",
-    "@patternfly/react-core": "1.38.3",
-    "@patternfly/react-icons": "2.9.2",
-    "@red-hat-insights/insights-frontend-components": "3.23.1",
+    "@patternfly/react-core": "1.45.4",
+    "@patternfly/react-icons": "2.9.7",
+    "@red-hat-insights/insights-frontend-components": "3.33.2",
     "classnames": "^2.2.6",
-    "create-react-class": "^15.6.3"
+    "create-react-class": "^15.6.3",
+    "graphql": "^14.0.2"
   },
   "sassIncludes": {
     "patternfly": "node_modules/patternfly/dist/sass",
